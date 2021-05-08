@@ -1,0 +1,20 @@
+{
+  "name": "chatterbox",
+  "version": "1.0.0",
+  "description": "chat aap using socket.io",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashish Thakur",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "socket.io": "^4.0.2"
+  },
+  "engines": {
+    "node":"14.15.4"
+  }
+}
