@@ -61,8 +61,8 @@ input{
 
 #message{
     display: inline-block;
-    flex: auto;
-    width: 80%;
+    flex: 1;
+    width: 75%;
 }
 
 button{
@@ -73,7 +73,7 @@ button{
     font-size: 18px;
     border: 0;
     padding: 0px 0;
-    width: 92px;
+    width: 20%;
     height: 35px;
     border-radius: 0 0 2px 2px;
     
